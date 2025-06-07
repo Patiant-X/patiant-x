@@ -22,5 +22,6 @@ One of my first full-stack projects was a **food ordering app** for a local busi
 - 🐍 Python scripting for business insights
 - 🧪 Exploring AI & automation tools
 
+---
 
 Thanks for stopping by! 😊
