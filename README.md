@@ -22,25 +22,5 @@ One of my first full-stack projects was a **food ordering app** for a local busi
 - 🐍 Python scripting for business insights
 - 🧪 Exploring AI & automation tools
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**: JavaScript, C#, Python  
-**Frontend**: React, Redux, Bootstrap  
-**Backend**: Node.js, Express  
-**Database**: MongoDB  
-**Tools**: Postman, Git, VS Code  
-**Data**: NumPy, Pandas, 
-
----
-
-## 📬 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🧑‍💻 [GitHub](https://github.com/yourusername)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
----
 
 Thanks for stopping by! 😊
